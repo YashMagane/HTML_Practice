@@ -60,7 +60,7 @@ A three-page design was provided via Figma, representing:
 ## 🚀 How to View the Project
 
 You can view the live version of the Figma-based website here:  
-🔗 **[Live Demo](https://yourusername.github.io/html-fundamentals/figma-website/)**  
+🔗 **[Live Demo](https://yashmagane.github.io/HTML_Practice/)**  
 
 To view locally:
 1. Clone the repository:
